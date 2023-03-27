@@ -7,4 +7,5 @@ for item in file:
     devices.append(item)
 
 file.close
+#Print devices from list
 print(devices)
