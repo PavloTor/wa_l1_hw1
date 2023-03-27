@@ -9,3 +9,5 @@ for item in file:
 file.close
 #Print devices from list
 print(devices)
+#Some one output
+print("Well done")
